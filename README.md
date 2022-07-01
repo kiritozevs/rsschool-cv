@@ -1,3 +1,3 @@
 # rsschool-cv
 
-Ссылка на [CV](https://kirito_zevs.github.io/rsschool-cv/cv)
+Ссылка на [CV](https://github.com/kiritozevs/rsschool-cv/blob/gh-pages/cv.md)
